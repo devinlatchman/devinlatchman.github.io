@@ -3,12 +3,24 @@
     <title>devinlatchman.github.io</title>
     <link href="https://pages.ellevin.net/feed.xml" rel="self" />
     <link href="https://pages.ellevin.net" />
-    <updated>2023-12-30T14:37:54-05:00</updated>
+    <updated>2023-12-30T14:40:50-05:00</updated>
     <author>
         <name>Devin Latchman</name>
     </author>
     <id>https://pages.ellevin.net</id>
 
+    <entry>
+        <title>test3</title>
+        <author>
+            <name>Devin Latchman</name>
+        </author>
+        <link href="https://pages.ellevin.net/test3.html"/>
+        <id>https://pages.ellevin.net/test3.html</id>
+
+        <updated>2023-12-30T14:40:50-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>test2</title>
         <author>
