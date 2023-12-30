@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>devinlatchman.github.io</title>
-    <link href="https://devinlatchman.github.io/feed.xml" rel="self" />
-    <link href="https://devinlatchman.github.io" />
+    <link href="https://pages.ellevin.net/feed.xml" rel="self" />
+    <link href="https://pages.ellevin.net" />
     <updated>2023-12-30T14:11:49-05:00</updated>
     <author>
         <name>Devin Latchman</name>
     </author>
-    <id>https://devinlatchman.github.io</id>
+    <id>https://pages.ellevin.net</id>
 
     <entry>
         <title>Test</title>
         <author>
             <name>Devin Latchman</name>
         </author>
-        <link href="https://devinlatchman.github.io/test.html"/>
-        <id>https://devinlatchman.github.io/test.html</id>
+        <link href="https://pages.ellevin.net/test.html"/>
+        <id>https://pages.ellevin.net/test.html</id>
 
         <updated>2023-12-30T14:11:49-05:00</updated>
             <summary>

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "devinlatchman.github.io",
     "description": "",
-    "home_page_url": "https://devinlatchman.github.io",
-    "feed_url": "https://devinlatchman.github.io/feed.json",
+    "home_page_url": "https://pages.ellevin.net",
+    "feed_url": "https://pages.ellevin.net/feed.json",
     "user_comment": "",
     "author": {
         "name": "Devin Latchman"
     },
     "items": [
         {
-            "id": "https://devinlatchman.github.io/test.html",
-            "url": "https://devinlatchman.github.io/test.html",
+            "id": "https://pages.ellevin.net/test.html",
+            "url": "https://pages.ellevin.net/test.html",
             "title": "Test",
             "summary": "This is a test",
             "content_html": "<p>This is a test</p>",
