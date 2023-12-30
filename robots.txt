@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://devinlatchman.github.io/sitemap.xml
